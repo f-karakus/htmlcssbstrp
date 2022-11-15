@@ -1,4 +1,4 @@
 # htmlcssbstrp
 
-[Patika/Fevzican Karakuş]{app.patika.dev/blackbird}
-[Patika]{www.patika.dev}
+{app.patika.dev/blackbird}
+{www.patika.dev}
