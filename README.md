@@ -1,4 +1,4 @@
 # htmlcssbstrp
 
-app.patika.dev/blackbird
+app.patika.dev/blackbird;
 www.patika.dev
